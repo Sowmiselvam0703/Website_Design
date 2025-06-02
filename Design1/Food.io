@@ -1,3 +1,5 @@
 Idea : Food Based Login and Home Page
 
-Designed by : Figma
+Designed using : Figma
+
+In this Website Design I added a smooth animation and hovering buttons on it.
